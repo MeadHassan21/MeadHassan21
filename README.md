@@ -1,9 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=700&size=35&duration=2000&pause=1200&color=3240F1&background=53FFB900&width=513&lines=Hi...%F0%9F%91%8B;This+is+MEAD+HASSAN;+Welcome+to+My+Github+Profile" alt="Typing SVG" /></a>
 
+<h2>About Me ⬇</h2>
+
 - 👀 I’m interested in .... Solving Problem and Programming Contest 
 - 🌱 I’m currently learning .... Data Structure and Algorithms 
-- 📫 How to reach me .... Meadhassan21@gamil.com
-- ✨My LinkedIn Profile Link ....  https://www.linkedin.com/in/meadhassan21/
+- 💬 How to reach me .... Meadhassan21@gamil.com
+- 🔹 My LinkedIn account Link ....  https://www.linkedin.com/in/meadhassan21/
 
 <!---
 MeadHassan21/MeadHassan21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
