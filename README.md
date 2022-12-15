@@ -3,7 +3,7 @@
 - 👀 I’m interested in ... Solving Problem and Programming Contest 
 - 🌱 I’m currently learning ... Data Structure and Algorithms 
 - 📫 How to reach me ... Meadhassan21@gamil.com
-- ✨My Linkedin Profile Link ....  https://www.linkedin.com/in/meadhassan21/
+- ✨My LinkedIn Profile Link ....  https://www.linkedin.com/in/meadhassan21/
 
 <!---
 MeadHassan21/MeadHassan21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
